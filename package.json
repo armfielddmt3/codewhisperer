@@ -1,0 +1,33 @@
+{
+  "name": "codewhisperer",
+  "version": "1.0.2",
+  "description": "codewhisperer",
+  "type": "module",
+  "main": "codewhisperer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/armfielddmt3/codewhisperer"
+  },
+  "website": "https://github.com/armfielddmt3/codewhisperer.git",
+  "keywords": [
+    "codewhisperer"
+  ],
+  "author": "armfielddmt3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armfielddmt3/codewhisperer/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/armfielddmt3/codewhisperer#readme",
+  "dependencies": {
+    "devmaven": "1.0.2",
+    "scriptgenius": "1.0.2",
+    "devscriptor": "1.0.2"
+  }
+}
